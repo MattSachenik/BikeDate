@@ -17,7 +17,7 @@ I uploaded some of the java driver files here to display my code, each one of th
 
 ![screenshot_20190212-104411](https://user-images.githubusercontent.com/18146316/52648629-d7249280-2eb4-11e9-86df-2108418c85a3.png)
 
-## Group Screen 
+## Create a Group Screen 
 
 ![screenshot_20190212-103850](https://user-images.githubusercontent.com/18146316/52648724-fc190580-2eb4-11e9-9cae-c8bdc1d99501.png)
 
