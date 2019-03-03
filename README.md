@@ -5,6 +5,10 @@ I built this application in Android Studio, it has been in development since May
 
 I uploaded some of the java driver files here to display my code, each one of these files powers a screen in my app.
 
+A beta version of my app is available on this page as well. 
+Test Account Username: henry@test.com 
+Test Account Password: 111111
+
 ## Home Screen 
 
 ![screenshot_20190212-103655](https://user-images.githubusercontent.com/18146316/52648740-00ddb980-2eb5-11e9-9735-9403b9cb8ef0.png)
