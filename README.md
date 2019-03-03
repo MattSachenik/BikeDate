@@ -6,7 +6,9 @@ I built this application in Android Studio, it has been in development since May
 I uploaded some of the java driver files here to display my code, each one of these files powers a screen in my app.
 
 A beta version of my app is available on this page as well. 
+
 Test Account Username: henry@test.com 
+
 Test Account Password: 111111
 
 ## Home Screen 
